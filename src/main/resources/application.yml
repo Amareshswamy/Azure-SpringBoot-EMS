@@ -13,9 +13,9 @@ spring:
 server:
     port: 9191
 
-springfox:
-    swagger:
-        enabled: true
+springdoc:
+    swagger-ui:
+        path: /swagger-ui.html
 
 
 
